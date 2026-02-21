@@ -1,4 +1,4 @@
-# Nutrition and Health Papers and Videos
+# Learning Nutrition and Health
 
 A curated collection of peer-reviewed papers, studies, and videos on nutrition, supplements, and health.
 
@@ -34,18 +34,13 @@ A curated collection of peer-reviewed papers, studies, and videos on nutrition, 
 
 ## Table of Contents
 
-- [Fasting & Metabolism](#fasting--metabolism)
+- [Fasting & Metabolism](#fasting--metabolism-1)
   - [Fasting and Ketosis](#fasting-and-ketosis)
-- [Supplements](#supplements)
+- [Supplements](#supplements-1)
   - [Ashwagandha](#ashwagandha)
   - [Berberine](#berberine)
-  - [Creatine](#creatine)
-  - [Bacopa Monnieri](#bacopa-monnieri)
   - [Curcumin](#curcumin)
-  - [Rhodiola Rosea](#rhodiola-rosea)
-  - [Chlorella](#chlorella)
   - [Sulforaphane](#sulforaphane)
-  - [Inulin](#inulin)
 - [Diet & Nutrition](#diet--nutrition)
   - [Coffee](#coffee)
   - [Books](#books)
@@ -59,99 +54,92 @@ A curated collection of peer-reviewed papers, studies, and videos on nutrition, 
 
 ### Fasting and Ketosis
 
-- [Effects of Intermittent Fasting on Health, Aging, and Disease - Rafael de Cabo and Mark P. Mattson](https://www.nejm.org/doi/full/10.1056/NEJMra1905136)
+- [Effects of Intermittent Fasting on Health, Aging, and Disease - Rafael de Cabo and Mark P. Mattson](https://www.nejm.org/doi/full/10.1056/NEJMra1905136) - Landmark NEJM review showing intermittent fasting triggers a metabolic switch to ketone-based energy, improving glucose regulation, stress resistance, and reducing inflammation across chronic diseases
 
-- [Augmented growth hormone secretory burst frequency and amplitude mediate enhanced GH secretion during a two-day fast in normal men](https://www.ncbi.nlm.nih.gov/pubmed/1548337)
+- [Augmented growth hormone secretory burst frequency and amplitude mediate enhanced GH secretion during a two-day fast in normal men](https://www.ncbi.nlm.nih.gov/pubmed/1548337) - A two-day fast induced a 5-fold increase in 24-hour growth hormone production through doubled burst frequency and amplitude
 
-- [Novel ketone diet enhances physical and cognitive performance](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5102124/)
+- [Novel ketone diet enhances physical and cognitive performance](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5102124/) - Rats fed a ketone ester diet ran 32% further on a treadmill and completed maze tests 38% faster, with greater ATP free energy available in cardiac tissue
 
-- [Resistance to Symptomatic Insulin Reactions after Fasting](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC332976/)
+- [Resistance to Symptomatic Insulin Reactions after Fasting](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC332976/) - After prolonged fasting the brain adapts to using ketone bodies as fuel, preventing hypoglycemic symptoms even when blood glucose drops to extremely low levels
 
 #### Videos
-- [Autophagy, Caloric Restriction Mimetics, Fasting and Protein Acetylation - Guido Kroemer](https://www.youtube.com/watch?v=Gm626MgpveI)
 
-- [Time-Restricted Feeding and Its Effects on Obesity, Muscle Mass and Heart Health - Satchin Panda](https://www.youtube.com/watch?v=-R-eqJDQ2nU)
+- [Autophagy, Caloric Restriction Mimetics, Fasting and Protein Acetylation - Guido Kroemer](https://www.youtube.com/watch?v=Gm626MgpveI) - Kroemer explains how fasting and caloric restriction mimetics induce autophagy through protein deacetylation, a key mechanism for cellular cleanup and longevity
 
-- [Fasting-Mimicking Diet & Fasting for Longevity, Cancer and Multiple Sclerosis - Valter Longo](https://www.youtube.com/watch?v=d6PyyatqJSE)
+- [Time-Restricted Feeding and Its Effects on Obesity, Muscle Mass and Heart Health - Satchin Panda](https://www.youtube.com/watch?v=-R-eqJDQ2nU) - Panda presents his research on how limiting eating to an 8-12 hour window improves metabolic markers, reduces obesity, and protects cardiovascular health
 
-- [Fasting and Muscle: How Long Term 1-2 Day Fasts BURN FAT but KEEP MUSCLE?](https://youtu.be/HTYv3FcEcus)
+- [Fasting-Mimicking Diet & Fasting for Longevity, Cancer and Multiple Sclerosis - Valter Longo](https://www.youtube.com/watch?v=d6PyyatqJSE) - Longo discusses his fasting-mimicking diet protocol and its clinical benefits for cancer treatment, autoimmune disease, and lifespan extension
+
+- [Fasting and Muscle: How Long Term 1-2 Day Fasts BURN FAT but KEEP MUSCLE?](https://youtu.be/HTYv3FcEcus) - Explains the hormonal mechanisms (growth hormone, norepinephrine) by which short-term fasts preferentially burn fat while preserving lean muscle mass
 
 ## Supplements
 
 ### Ashwagandha
 
-- [Examine.com - Ashwagandha](https://examine.com/supplements/ashwagandha/)
+- [Examine.com - Ashwagandha](https://examine.com/supplements/ashwagandha/) - Comprehensive evidence-based reference summarizing all human research on ashwagandha dosing, effects on cortisol, anxiety, testosterone, and exercise performance
 
-- [A standardized Withania somnifera extract significantly reduces stress-related parameters in chronically stressed humans: A double-blind, randomized, placebo-controlled study.](https://www.liquidwholefood.com/wp-content/uploads/2013/10/LWFwithania_review.pdf)
+- [A standardized Withania somnifera extract significantly reduces stress-related parameters in chronically stressed humans: A double-blind, randomized, placebo-controlled study.](https://www.liquidwholefood.com/wp-content/uploads/2013/10/LWFwithania_review.pdf) - 125 mg/day ashwagandha extract reduced serum cortisol by 14.5% and C-reactive protein by 31.6% while increasing DHEA-S in chronically stressed adults
 
-- [A Prospective, Randomized Double-Blind, Placebo-Controlled Study of Safety and Efficacy of a High-Concentration Full-Spectrum Extract of Ashwagandha Root in Reducing Stress and Anxiety in Adults](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3573577/)
+- [A Prospective, Randomized Double-Blind, Placebo-Controlled Study of Safety and Efficacy of a High-Concentration Full-Spectrum Extract of Ashwagandha Root in Reducing Stress and Anxiety in Adults](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3573577/) - 300 mg twice daily of full-spectrum ashwagandha root extract significantly lowered stress scores and serum cortisol over 60 days with no serious adverse effects
 
 #### Videos
-- [Ashwaganda Benefits: What Ashwagandha Is And How It Works](https://youtu.be/A_lZQgW73y4)
+
+- [Ashwaganda Benefits: What Ashwagandha Is And How It Works](https://youtu.be/A_lZQgW73y4) - Overview of ashwagandha's adaptogenic mechanisms, including cortisol reduction, thyroid support, and anti-anxiety effects
 
 ### Berberine
-- [Pharmacological effects of berberine on mood disorders](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6307759/)
 
-### Creatine
-
-### Bacopa Monnieri
+- [Pharmacological effects of berberine on mood disorders](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6307759/) - Review showing berberine exerts antidepressant-like effects by modulating serotonin, norepinephrine, and dopamine levels while reducing neuroinflammation
 
 ### Curcumin
 
-- [Curcumin reverses impaired hippocampal neurogenesis and increases serotonin receptor 1A mRNA and brain-derived neurotrophic factor expression in chronically stressed rats](https://www.ncbi.nlm.nih.gov/pubmed/17617388/)
-
-### Rhodiola Rosea
-
-### Chlorella
+- [Curcumin reverses impaired hippocampal neurogenesis and increases serotonin receptor 1A mRNA and brain-derived neurotrophic factor expression in chronically stressed rats](https://www.ncbi.nlm.nih.gov/pubmed/17617388/) - Curcumin at 10-20 mg/kg restored hippocampal neurogenesis and prevented stress-induced decreases in serotonin receptor 1A and BDNF, matching the effects of the antidepressant imipramine
 
 ### Sulforaphane
 
-- [Sulforaphane and Its Effects on Cancer, Mortality, Aging, Brain and Behavior, Heart Disease & More](https://youtu.be/zz4YVJ4aRfg)
-
-### Inulin
+- [Sulforaphane and Its Effects on Cancer, Mortality, Aging, Brain and Behavior, Heart Disease & More](https://youtu.be/zz4YVJ4aRfg) - Comprehensive overview of sulforaphane's wide-ranging benefits including NRF2 pathway activation, cancer prevention, reduced inflammation, and neuroprotection
 
 ## Diet & Nutrition
 
 ### Coffee
 
-- [Coffee induces autophagy in vivo](https://www.ncbi.nlm.nih.gov/pubmed/24769862)
+- [Coffee induces autophagy in vivo](https://www.ncbi.nlm.nih.gov/pubmed/24769862) - Both regular and decaffeinated coffee rapidly triggered autophagy in liver, muscle, and heart tissue within 1-4 hours via mTORC1 inhibition and protein deacetylation
 
 ### Books
 
-- What to Eat - Marion Nestle
+- [What to Eat - Marion Nestle](https://www.amazon.com/What-Eat-Marion-Nestle/dp/0865477388) - A practical aisle-by-aisle supermarket guide by a leading nutritionist that decodes food labels, marketing claims, and industry influence to help consumers make informed choices
 
-- How not to Die - Dr. Greger
+- [How Not to Die - Dr. Greger](https://nutritionfacts.org/book/how-not-to-die/) - Evidence-based guide to preventing and reversing the top causes of premature death through dietary and lifestyle changes, with a focus on whole-food plant-based nutrition
 
-- The Salt Fix: Why the Experts Got It All Wrong--And How Eating More Might Save Your Life - James Dinicolantonio
+- [The Salt Fix: Why the Experts Got It All Wrong--And How Eating More Might Save Your Life - James DiNicolantonio](https://www.penguinrandomhouse.com/books/545379/the-salt-fix-by-dr-james-dinicolantonio/) - Challenges the low-salt consensus by arguing that insufficient salt intake may worsen insulin resistance, obesity, and cardiovascular risk based on a review of over 500 studies
 
-- The Upside of Stress: Why Stress Is Good for You, and How to Get Good at It - Kelly McGonigal
+- [The Upside of Stress: Why Stress Is Good for You, and How to Get Good at It - Kelly McGonigal](https://www.penguinrandomhouse.com/books/316675/the-upside-of-stress-by-kelly-mcgonigal/) - Draws on psychology research to show that changing your mindset about stress can improve health, performance, and resilience rather than causing harm
 
-- Food and Nutrition Throughout Life: A Comprehensive Overview of Food and Nutrition in All Stages of Life
+- [Food and Nutrition Throughout Life: A Comprehensive Overview of Food and Nutrition in All Stages of Life](https://www.routledge.com/Food-and-Nutrition-Throughout-Life-A-comprehensive-overview-of-food-and-nutrition-in-all-stages-of-life/Shepherd-Thodis/p/book/9781743316757) - Textbook covering nutritional needs from pregnancy through old age, useful for students and health professionals seeking a lifecycle-based understanding of nutrition
 
-- Biochemical, Physiological, and Molecular Aspects of Human Nutrition 3rd Edition by Stipanuk and Caudill
+- [Biochemical, Physiological, and Molecular Aspects of Human Nutrition 3rd Edition by Stipanuk and Caudill](https://shop.elsevier.com/books/biochemical-physiological-and-molecular-aspects-of-human-nutrition/stipanuk/978-1-4377-0959-9) - Advanced reference text on the biochemistry and molecular biology of nutrients, designed for graduate students and researchers in nutrition science
 
 ## Health & Disease
 
 ### Inflammation
 
-- [Adult inflammation is associated with childhood exposure to stress, suggests a new UK study (n=1,391), which found that exposure to adverse experiences, stress, and violence during childhood or adolescence was associated with an increase in blood levels of an inflammatory biomarker at age 18](https://jamanetwork.com/journals/jamapediatrics/fullarticle/2754102)
+- [Childhood adversity linked to inflammation at age 18 - UK study (n=1,391) (JAMA Pediatrics)](https://jamanetwork.com/journals/jamapediatrics/fullarticle/2754102) - Exposure to adverse experiences, stress, and violence during childhood/adolescence was associated with increased inflammatory biomarkers
 
 ### Antibiotic
 
-- [Antibiotic exposure and risk of Parkinson's disease in finland: A nationwide case‐control study](https://www.sciencedaily.com/releases/2019/11/191122113314.htm)
+- [Antibiotic exposure and risk of Parkinson's disease in Finland: A nationwide case-control study](https://www.sciencedaily.com/releases/2019/11/191122113314.htm) - Nationwide study of 13,976 PD cases found that oral macrolide and lincosamide antibiotics were associated with elevated Parkinson's risk, suggesting gut microbiome disruption as a contributing mechanism
 
-- [Antibiotic Use in Premature Babies Could Have Harmful Effects in Later Life](https://www.genengnews.com/news/antibiotic-use-in-premature-babies-could-have-harmful-effects-in-later-life/)
+- [Antibiotic Use in Premature Babies Could Have Harmful Effects in Later Life](https://www.genengnews.com/news/antibiotic-use-in-premature-babies-could-have-harmful-effects-in-later-life/) - Heavy early antibiotic treatment in preemies leads to fewer beneficial bacteria, more drug-resistant microbes, and slower microbiome maturation persisting at least 21 months after NICU discharge
 
-- [Antibiotics May Trigger Mitochondrial Dysfunction Inducing Psychiatric Disorders](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5240889/?fbclid=IwAR2WlubRDBL4rYpnvGzgUGyN2zDSIbCYmpfbdlliGjJfR2J058IRntt38pM)
+- [Antibiotics May Trigger Mitochondrial Dysfunction Inducing Psychiatric Disorders](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5240889/?fbclid=IwAR2WlubRDBL4rYpnvGzgUGyN2zDSIbCYmpfbdlliGjJfR2J058IRntt38pM) - Certain antibiotics (aminoglycosides, fluoroquinolones) can impair neuronal mitochondrial function, potentially triggering mania, anxiety, and other psychiatric symptoms
 
 ### Gut
 
-- [Shaping the Metabolism of Intestinal Bacteroides Population through Diet to Improve Human Health](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5339271/)
+- [Shaping the Metabolism of Intestinal Bacteroides Population through Diet to Improve Human Health](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5339271/) - Review showing how dietary carbohydrate-protein combinations can reshape Bacteroides metabolism and short-chain fatty acid profiles, influencing obesity, insulin resistance, and metabolic syndrome
 
-- [The bacteria in our gut, the human microbiome, churns out tens of thousands of tiny novel proteins so small (< 50 amino acids) they've gone unnoticed until now. They belong to over 4,000 new biological families, and may explain how the microbiome affects human health, paving the way for new drugs](http://med.stanford.edu/news/all-news/2019/08/human-microbiome-churns-out-thousands-of-tiny-novel-proteins.html)
+- [Human microbiome produces thousands of tiny novel proteins from over 4,000 new biological families](http://med.stanford.edu/news/all-news/2019/08/human-microbiome-churns-out-thousands-of-tiny-novel-proteins.html) - Small proteins (<50 amino acids) may explain how the microbiome affects health, paving the way for new drugs
 
-- [Poor sleep can negatively affect your gut microbiome, suggests new study. The strong gut-brain bidirectional communication may explain why not getting proper sleep can lead to short term (stress, psychosocial issues) and long-term (cardiovascular disease, cancer) health problems](https://news.nova.edu/news-releases/new-study-points-to-possible-correlation-between-sleep-and-overall-good-health/)
+- [Poor sleep can negatively affect your gut microbiome](https://news.nova.edu/news-releases/new-study-points-to-possible-correlation-between-sleep-and-overall-good-health/) - Gut-brain bidirectional communication may explain sleep-related short and long-term health problems
 
 ### Cold
 
-- [The Effect of Cold Showering on Health and Work: A Randomized Controlled Trial](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5025014/)
+- [The Effect of Cold Showering on Health and Work: A Randomized Controlled Trial](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5025014/) - 3,018-participant RCT found that routine hot-to-cold showers reduced self-reported sickness absence by 29%, though total illness days were not significantly affected
