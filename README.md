@@ -2,6 +2,36 @@
 
 A curated collection of peer-reviewed papers, studies, and videos on nutrition, supplements, and health.
 
+# Not yet reviewed
+
+> These resources were recently found and have not been reviewed yet.
+
+### Fasting & Metabolism
+- [Time-Restricted Eating in Adults With Metabolic Syndrome (TIMET study) - Wilkinson et al. incl. Satchin Panda (Annals of Internal Medicine, 2024)](https://www.acpjournals.org/doi/abs/10.7326/M24-0859) - 108-patient RCT: 8-10h eating window improved HbA1c, cholesterol, blood pressure
+- [Association Between Time-Restricted Eating and All-Cause Mortality - Zhong et al. (AHA, 2024)](https://www.ahajournals.org/doi/10.1161/circ.149.suppl_1.P192) - Controversial: <8h eating windows associated with 91% higher CV mortality (methodological limitations debated)
+
+### GLP-1 & Metabolic Health
+- [Semaglutide and Cardiovascular Outcomes in Obesity (SELECT Trial) - Lincoff et al. (NEJM, 2023)](https://www.nejm.org/doi/full/10.1056/NEJMoa2307563) - Landmark 17,604-patient RCT: semaglutide reduced major CV events by 20% in obese non-diabetic patients
+- [Neuroprotective Effects of GLP-1 Receptor Agonists in Neurodegenerative Disorders (2024)](https://www.sciencedirect.com/science/article/pii/S1567576924020599) - Large cohort finds GLP-1 RAs associated with reduced cognitive impairment
+- [GLP-1 Medicines in Neurological and Psychiatric Disorders (Cell Reports Medicine, 2025)](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(25)00584-1) - Evidence for GLP-1 RAs across Alzheimer's, Parkinson's, addiction
+
+### Gut Microbiome
+- [Gut-Microbiota-Targeted Diets Modulate Human Immune Status - Wastyk, Sonnenburg et al. (Cell, 2021)](https://www.cell.com/cell/pdf/S0092-8674(21)00754-6.pdf) - Stanford RCT: high-fermented-food diets increased microbiome diversity and reduced 19 inflammatory proteins
+- [Microbiota-Gut-Brain Axis and Therapeutic Applications in Neurodegenerative Diseases (Nature, 2024)](https://www.nature.com/articles/s41392-024-01743-1) - Mechanistic review of gut microbiota regulating glial function and neuroinflammation
+
+### Supplements
+- [Creatine Supplementation and Cognitive Function: Meta-Analysis (Frontiers in Nutrition, 2024)](https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2024.1424972/full) - 16-RCT meta-analysis: significant improvements in memory and processing speed
+- [Ashwagandha: Cortisol, Stress, and Anxiety Meta-Analysis (BJPsych Open, 2025)](https://www.cambridge.org/core/journals/bjpsych-open/article/effects-of-ashwagandha-supplements-on-cortisol-stress-and-anxiety-levels-in-adults-a-systematic-review-and-metaanalysis/6F2D7847C1F64707F2034A45FD6CF0C0) - 9 RCTs confirm significant stress reduction; 300-600 mg/day effective
+- [Berberine and Health Outcomes: Overview of Systematic Reviews (BMC, 2025)](https://link.springer.com/article/10.1186/s12906-025-04872-4) - 54 reviews; berberine improved 90.9% of metabolic syndrome outcomes
+
+### Longevity
+- [Targeting Ageing with Rapamycin in Humans: Systematic Review (Lancet Healthy Longevity, 2024)](https://www.thelancet.com/journals/lanhl/article/PIIS2666-7568(23)00258-1/fulltext) - Immune rejuvenation and CV benefits confirmed; no serious adverse events in healthy subjects
+- [Chemically Induced Reprogramming to Reverse Cellular Aging - Sinclair lab (Aging, 2023)](https://www.aging-us.com/article/204896/text) - Small-molecule cocktails reverse epigenetic age markers without full pluripotency
+
+### Cold Exposure
+- [Cold-Water Immersion Health and Wellbeing Meta-Analysis (PLOS ONE, 2025)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11778651/) - 11-study meta-analysis: CWI reduces sickness absence by 29%
+- [Cold-Water Immersion: Neurohormesis and Clinical Neurosciences (2024)](https://psychiatryonline.org/doi/full/10.1176/appi.neuropsych.20240053) - Neurohormetic mechanisms including norepinephrine, dopamine release; therapeutic applications in depression
+
 ## Table of Contents
 
 - [Fasting & Metabolism](#fasting--metabolism)
