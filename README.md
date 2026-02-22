@@ -32,6 +32,43 @@ A curated collection of peer-reviewed papers, studies, and videos on nutrition, 
 - [Cold-Water Immersion Health and Wellbeing Meta-Analysis (PLOS ONE, 2025)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11778651/) - 11-study meta-analysis: CWI reduces sickness absence by 29%
 - [Cold-Water Immersion: Neurohormesis and Clinical Neurosciences (2024)](https://psychiatryonline.org/doi/full/10.1176/appi.neuropsych.20240053) - Neurohormetic mechanisms including norepinephrine, dopamine release; therapeutic applications in depression
 
+### Fasting / Time-Restricted Eating (New)
+- [Effects of early, late and self-selected TRE on visceral adipose tissue - Galindo Munoz et al. (Nature Medicine, 2025)](https://www.nature.com/articles/s41591-024-03375-y) - Multicenter RCT (n=197): 8h TRE windows did not reduce visceral fat vs usual care, though early TRE reduced subcutaneous fat
+- [Flexible TRE combined with exercise for middle-aged women - McAllister et al. (Nature Communications, 2025)](https://www.nature.com/articles/s41467-025-65678-z) - Four-arm RCT (n=104) examining 12-week flexible 8h TRE and aerobic exercise in women aged 40-60
+
+### GLP-1 Agonists (New)
+- [Semaglutide on Chronic Kidney Disease (FLOW trial) - Perkovic et al. (NEJM, 2024)](https://www.nejm.org/doi/10.1056/NEJMoa2403347) - Landmark RCT: semaglutide reduced major kidney events by 24%, CV death by 29%, all-cause death by 20% in T2D with CKD; stopped early for efficacy
+
+### Longevity / Senolytics (New)
+- [Senolytics to improve cognition and mobility (STAMINA trial) - Gonzales et al. (eBioMedicine/Lancet, 2025)](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(25)00056-8/fulltext) - First-in-human pilot (n=12) of dasatinib+quercetin in MCI; significant MoCA improvement, TNF-alpha reduction
+
+### NAD+ / NMN / NR (New)
+- [Differential impact of three NAD+ boosters - Lapatto et al. (Nature Metabolism, 2025)](https://www.nature.com/articles/s42255-025-01421-8) - Head-to-head RCT (n=65): NR and NMN doubled circulating NAD+ after 14 days while nicotinamide did not; both increased gut SCFAs
+
+### Omega-3 (New)
+- [Omega-3 fatty acids on cardiovascular disease risk: meta-analysis - Mattumpuram et al. (Clinical and Translational Discovery, 2025)](https://onlinelibrary.wiley.com/doi/10.1002/ctd2.70094) - 42 studies (~176,000 patients): significant reductions in CV mortality, MI, and coronary events
+- [Omega-3 supplementation on cognitive function: dose-response meta-analysis - Islam et al. (Scientific Reports, 2025)](https://www.nature.com/articles/s41598-025-16129-8) - 58 studies: non-linear dose-response improvements in attention, perceptual speed, language, and global cognition
+
+### Magnesium (New)
+- [Magnesium Bisglycinate Supplementation in Adults Reporting Poor Sleep - Arab et al. (Nature and Science of Sleep, 2025)](https://www.tandfonline.com/doi/full/10.2147/NSS.S524348) - RCT showing form-specific magnesium effects on sleep quality
+
+### Vitamin D (New)
+- [Vitamin D supplementation to prevent acute respiratory infections - Jolliffe et al. (Lancet Diabetes & Endocrinology, 2025)](https://www.thelancet.com/journals/landia/article/PIIS2213-8587(24)00348-6/fulltext) - Updated meta-analysis of 43 RCTs (n=49,419): daily doses of 400-1000 IU most effective
+
+### Ultra-Processed Foods (New)
+- [Ultra-processed foods and all-cause mortality: dose-response meta-analysis - Dai et al. (Systematic Reviews, 2025)](https://link.springer.com/article/10.1186/s13643-025-02800-8) - 18 cohort studies (n=1,148,387): 15% increased mortality in highest vs lowest UPF consumers
+- [Ultra-processed foods and human health: the main thesis - Monteiro et al. (The Lancet, 2025)](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01565-X/abstract) - Major Lancet review synthesizing UPF evidence on mortality, CVD, cancer, diabetes, mental health
+
+### Exercise as Medicine (New)
+- [Structured Exercise after Chemotherapy for Colon Cancer (CHALLENGE trial) - Courneya et al. (NEJM, 2025)](https://www.nejm.org/doi/full/10.1056/NEJMoa2502760) - 17-year RCT (n=889): 3-year exercise program significantly improved disease-free survival; 37% lower mortality
+
+### Sleep & Circadian Rhythm (New)
+- [Role of Circadian Health in Cardiometabolic Health - AHA Scientific Statement (Circulation, 2025)](https://www.ahajournals.org/doi/10.1161/CIR.0000000000001388) - Links circadian disruption to obesity, T2D, hypertension, CVD with clinical recommendations
+
+### Gut Microbiome (New)
+- [Dietary Fiber Supplementation on Gut Microbiota and Bowel Function - RCT (Microorganisms, 2025)](https://www.mdpi.com/2076-2607/13/9/2068) - Fiber effects on specific bacterial genera and bowel function in healthy adults
+- [Gut microbiome-mediated health effects of fiber and polyphenol-rich diets (PMC, 2025)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12425962/) - Fiber and polyphenol diets enrich SCFA-producing bacteria with implications for systemic inflammation
+
 ## Table of Contents
 
 - [Fasting & Metabolism](#fasting--metabolism-1)
