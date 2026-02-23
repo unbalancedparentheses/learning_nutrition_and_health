@@ -2,6 +2,10 @@
 
 A curated collection of peer-reviewed papers, studies, and videos on nutrition, supplements, and health.
 
+GLP-1 receptor agonists (semaglutide/tirzepatide) are the biggest development in metabolic medicine in decades. The SELECT trial showed cardiovascular benefit independent of diabetes, and the FLOW trial demonstrated kidney protection. These drugs appear to reduce inflammation, not just body weight -- the mechanism papers suggest direct effects on immune cells. Longevity/senolytics research has moved from animal models to early human trials: the STAMINA trial tests dasatinib+quercetin (senolytic combo) in humans, rapamycin clinical trials for aging are underway, and Yamanaka factor reprogramming (partial epigenetic reset) shows rejuvenation in mice.
+
+The gut microbiome literature continues to expand, with the strongest evidence now linking specific bacterial species to metabolic health, immune function, and even neuropsychiatric outcomes. The fasting literature (Mattson, de Cabo) has consolidated around time-restricted eating showing modest metabolic benefits, though the effect sizes are smaller than the hype suggested. Exercise science (the CHALLENGE trial and high-intensity interval training meta-analyses) provides the most reliable intervention -- the evidence for exercise as medicine keeps getting stronger.
+
 ## Table of Contents
 
 - [Fasting & Metabolism](#fasting--metabolism-1)
